@@ -2,14 +2,16 @@
 
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
+**Issue:** [#1052 — Create regions for all vendor shops](https://github.com/modernuo/ModernUO/issues/1052)  
 **Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it's labeled both **"good first PR"** and **"help wanted"**, which made it an ideal entry point into a large, active open-source codebase. ModernUO is a mature C#/.NET game server emulator for Ultima Online, and most of my experience so far has been in TypeScript and full-stack web development (Next.js, React, Node). Stepping into a strongly-typed, systems-oriented C# project is exactly the kind of stretch I wanted from this program — it pushes me out of the web stack I'm comfortable in and forces me to read and understand an unfamiliar architecture before I can contribute to it.
+
+The issue itself — creating regions for all vendor shops — is well-scoped but genuinely useful. The maintainer notes these regions are needed so the server can "handle some mechanics better," which means my work directly enables future gameplay features rather than being throwaway practice. I'm hoping to learn how ModernUO models the game world (its region/spatial system), how data-driven content like shops is defined and loaded, and how to navigate and contribute to a sizable codebase with established conventions and an active maintainer. It's a concrete, verifiable task with a clear definition of done, which makes it a strong first contribution to build confidence on before tackling harder issues.
 
 ---
 
