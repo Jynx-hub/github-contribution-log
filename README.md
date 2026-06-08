@@ -1,7 +1,7 @@
-# Contribution [#]: [Issue Title]
+# Contribution 3794: Create regions for all vendor shops
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
+**Contribution Number:** 3794  
+**Student:** Steven Ortega  
 **Issue:** [#1052 — Create regions for all vendor shops](https://github.com/modernuo/ModernUO/issues/1052)  
 **Status:** Phase I Complete
 
