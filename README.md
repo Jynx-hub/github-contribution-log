@@ -3,7 +3,7 @@
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** [Your Name]  
 **Issue:** [#1052 — Create regions for all vendor shops](https://github.com/modernuo/ModernUO/issues/1052)  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Status:** Phase I Complete
 
 ---
 
